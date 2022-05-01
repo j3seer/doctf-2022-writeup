@@ -1,1 +1,1 @@
-#Dgital overdose CTF 2022 Writeup
+# Digital overdose CTF 2022 Writeup
