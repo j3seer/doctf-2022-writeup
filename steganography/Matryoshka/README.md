@@ -39,9 +39,7 @@ while flag == 0:
                         filename = file
 
 
-
 ```
 
 ``` Flag : DOCTF{G00D_3FF0RT_BUT_1$_1T_0V3R?} ```
 
-```
