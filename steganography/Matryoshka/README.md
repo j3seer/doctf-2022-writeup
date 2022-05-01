@@ -16,8 +16,6 @@ sol.py
 
 import os
 
-
-
 filename = "8fb0444894b78f857dd600b7f35c0af4.zip"
 extract_dir = "ext"
 flag = 0
@@ -37,7 +35,6 @@ while flag == 0:
                         flag = 1
                 else:
                         filename = file
-
 
 ```
 
