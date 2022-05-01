@@ -23,7 +23,7 @@ That means the password was changed to another php magic hash , so we can simply
 
 checking some of the responses we find the correct hash and the flag :
 
-hash : 0e3583856241
+```hash : 0e3583856241```
 
 
 ![image](https://user-images.githubusercontent.com/58823465/166169983-94d66b34-4e4c-40ff-82e7-7bfa634e982b.png)
