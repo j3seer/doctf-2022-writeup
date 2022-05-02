@@ -81,4 +81,3 @@ And there's our flag
 
 ``` Flag : DOCTF{pr0t3ct_th0s3_k3ys} ```
 
-```
