@@ -22,9 +22,11 @@ This means the "create_function" was used and this function can be exploited if 
 More info about "create_function" code injection: 
 
 -----------------------------------------------------------
+
 https://www.exploit-db.com/exploits/32417
 
 https://www.codetd.com/en/article/7175910
+
 -----------------------------------------------------------
 
 So using this payload we can get RCE 
